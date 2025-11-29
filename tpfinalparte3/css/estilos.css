@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Luxurious";
+  src: url("/img/LuxuriousRoman-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+body, h1, h2, h3, p, a, button {
+  font-family: "Luxurious", serif !important;
+}
